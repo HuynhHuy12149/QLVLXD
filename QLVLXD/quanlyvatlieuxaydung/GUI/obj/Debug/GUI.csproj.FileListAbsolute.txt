@@ -1,0 +1,122 @@
+C:\Users\huynh\OneDrive\Máy tính\QLVLXD\quanlyvatlieuxaydung\GUI\bin\Debug\GUI.exe.config
+C:\Users\huynh\OneDrive\Máy tính\QLVLXD\quanlyvatlieuxaydung\GUI\bin\Debug\GUI.exe
+C:\Users\huynh\OneDrive\Máy tính\QLVLXD\quanlyvatlieuxaydung\GUI\bin\Debug\GUI.pdb
+C:\Users\huynh\OneDrive\Máy tính\QLVLXD\quanlyvatlieuxaydung\GUI\bin\Debug\BLL.dll
+C:\Users\huynh\OneDrive\Máy tính\QLVLXD\quanlyvatlieuxaydung\GUI\bin\Debug\DTO.dll
+C:\Users\huynh\OneDrive\Máy tính\QLVLXD\quanlyvatlieuxaydung\GUI\bin\Debug\BLL.pdb
+C:\Users\huynh\OneDrive\Máy tính\QLVLXD\quanlyvatlieuxaydung\GUI\bin\Debug\DTO.pdb
+C:\Users\huynh\OneDrive\Máy tính\QLVLXD\quanlyvatlieuxaydung\GUI\obj\Debug\GUI.csproj.AssemblyReference.cache
+C:\Users\huynh\OneDrive\Máy tính\QLVLXD\quanlyvatlieuxaydung\GUI\obj\Debug\GUI.Properties.Resources.resources
+C:\Users\huynh\OneDrive\Máy tính\QLVLXD\quanlyvatlieuxaydung\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+C:\Users\huynh\OneDrive\Máy tính\QLVLXD\quanlyvatlieuxaydung\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+C:\Users\huynh\OneDrive\Máy tính\QLVLXD\quanlyvatlieuxaydung\GUI\obj\Debug\GUI.csproj.CopyComplete
+C:\Users\huynh\OneDrive\Máy tính\QLVLXD\quanlyvatlieuxaydung\GUI\obj\Debug\GUI.exe
+C:\Users\huynh\OneDrive\Máy tính\QLVLXD\quanlyvatlieuxaydung\GUI\obj\Debug\GUI.pdb
+C:\Users\huynh\OneDrive\Máy tính\QLVLXD\quanlyvatlieuxaydung\GUI\obj\Debug\GUI.frmlogin.resources
+C:\Users\huynh\OneDrive\Máy tính\QLVLXD\quanlyvatlieuxaydung\GUI\bin\Debug\DAL.dll
+C:\Users\huynh\OneDrive\Máy tính\QLVLXD\quanlyvatlieuxaydung\GUI\bin\Debug\DAL.pdb
+C:\Users\huynh\OneDrive\Máy tính\QLVLXD\quanlyvatlieuxaydung\GUI\obj\Debug\GUI.frm_main.resources
+C:\Users\huynh\OneDrive\Máy tính\QLVLXD\quanlyvatlieuxaydung\GUI\obj\Debug\GUI.frm_nhanvien.resources
+C:\Users\huynh\OneDrive\Máy tính\QLVLXD\quanlyvatlieuxaydung\GUI\obj\Debug\GUI.frm_khachhang.resources
+C:\Users\huynh\OneDrive\Máy tính\QLVLXD\quanlyvatlieuxaydung\GUI\obj\Debug\GUI.frm_hanghoa.resources
+C:\Users\huynh\OneDrive\Máy tính\QLVLXD\quanlyvatlieuxaydung\GUI\obj\Debug\GUI.frm_hoadon.resources
+C:\Users\huynh\OneDrive\Máy tính\QLVLXD\quanlyvatlieuxaydung\GUI\obj\Debug\GUI.frm_chitiethoadon.resources
+C:\Users\huynh\OneDrive\Máy tính\New folder\New folder (2)\QLVLXD\quanlyvatlieuxaydung\GUI\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\huynh\OneDrive\Máy tính\New folder\New folder (2)\QLVLXD\quanlyvatlieuxaydung\GUI\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\huynh\OneDrive\Máy tính\New folder\New folder (2)\QLVLXD\quanlyvatlieuxaydung\GUI\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\huynh\OneDrive\Máy tính\New folder\New folder (2)\QLVLXD\quanlyvatlieuxaydung\GUI\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\huynh\OneDrive\Máy tính\New folder\New folder (2)\QLVLXD\quanlyvatlieuxaydung\GUI\bin\Debug\GUI.exe.config
+C:\Users\huynh\OneDrive\Máy tính\New folder\New folder (2)\QLVLXD\quanlyvatlieuxaydung\GUI\bin\Debug\GUI.exe
+C:\Users\huynh\OneDrive\Máy tính\New folder\New folder (2)\QLVLXD\quanlyvatlieuxaydung\GUI\bin\Debug\GUI.pdb
+C:\Users\huynh\OneDrive\Máy tính\New folder\New folder (2)\QLVLXD\quanlyvatlieuxaydung\GUI\bin\Debug\BLL.dll
+C:\Users\huynh\OneDrive\Máy tính\New folder\New folder (2)\QLVLXD\quanlyvatlieuxaydung\GUI\bin\Debug\DTO.dll
+C:\Users\huynh\OneDrive\Máy tính\New folder\New folder (2)\QLVLXD\quanlyvatlieuxaydung\GUI\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\huynh\OneDrive\Máy tính\New folder\New folder (2)\QLVLXD\quanlyvatlieuxaydung\GUI\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\huynh\OneDrive\Máy tính\New folder\New folder (2)\QLVLXD\quanlyvatlieuxaydung\GUI\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\huynh\OneDrive\Máy tính\New folder\New folder (2)\QLVLXD\quanlyvatlieuxaydung\GUI\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\huynh\OneDrive\Máy tính\New folder\New folder (2)\QLVLXD\quanlyvatlieuxaydung\GUI\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\huynh\OneDrive\Máy tính\New folder\New folder (2)\QLVLXD\quanlyvatlieuxaydung\GUI\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\huynh\OneDrive\Máy tính\New folder\New folder (2)\QLVLXD\quanlyvatlieuxaydung\GUI\bin\Debug\DAL.dll
+C:\Users\huynh\OneDrive\Máy tính\New folder\New folder (2)\QLVLXD\quanlyvatlieuxaydung\GUI\bin\Debug\EnvDTE.dll
+C:\Users\huynh\OneDrive\Máy tính\New folder\New folder (2)\QLVLXD\quanlyvatlieuxaydung\GUI\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\huynh\OneDrive\Máy tính\New folder\New folder (2)\QLVLXD\quanlyvatlieuxaydung\GUI\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\huynh\OneDrive\Máy tính\New folder\New folder (2)\QLVLXD\quanlyvatlieuxaydung\GUI\bin\Debug\stdole.dll
+C:\Users\huynh\OneDrive\Máy tính\New folder\New folder (2)\QLVLXD\quanlyvatlieuxaydung\GUI\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\huynh\OneDrive\Máy tính\New folder\New folder (2)\QLVLXD\quanlyvatlieuxaydung\GUI\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\huynh\OneDrive\Máy tính\New folder\New folder (2)\QLVLXD\quanlyvatlieuxaydung\GUI\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\huynh\OneDrive\Máy tính\New folder\New folder (2)\QLVLXD\quanlyvatlieuxaydung\GUI\bin\Debug\Microsoft.MSXML.dll
+C:\Users\huynh\OneDrive\Máy tính\New folder\New folder (2)\QLVLXD\quanlyvatlieuxaydung\GUI\bin\Debug\BLL.pdb
+C:\Users\huynh\OneDrive\Máy tính\New folder\New folder (2)\QLVLXD\quanlyvatlieuxaydung\GUI\bin\Debug\DTO.pdb
+C:\Users\huynh\OneDrive\Máy tính\New folder\New folder (2)\QLVLXD\quanlyvatlieuxaydung\GUI\bin\Debug\DAL.pdb
+C:\Users\huynh\OneDrive\Máy tính\New folder\New folder (2)\QLVLXD\quanlyvatlieuxaydung\GUI\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\huynh\OneDrive\Máy tính\New folder\New folder (2)\QLVLXD\quanlyvatlieuxaydung\GUI\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\huynh\OneDrive\Máy tính\New folder\New folder (2)\QLVLXD\quanlyvatlieuxaydung\GUI\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\huynh\OneDrive\Máy tính\New folder\New folder (2)\QLVLXD\quanlyvatlieuxaydung\GUI\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\huynh\OneDrive\Máy tính\New folder\New folder (2)\QLVLXD\quanlyvatlieuxaydung\GUI\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\huynh\OneDrive\Máy tính\New folder\New folder (2)\QLVLXD\quanlyvatlieuxaydung\GUI\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\huynh\OneDrive\Máy tính\New folder\New folder (2)\QLVLXD\quanlyvatlieuxaydung\GUI\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\huynh\OneDrive\Máy tính\New folder\New folder (2)\QLVLXD\quanlyvatlieuxaydung\GUI\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\huynh\OneDrive\Máy tính\New folder\New folder (2)\QLVLXD\quanlyvatlieuxaydung\GUI\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\huynh\OneDrive\Máy tính\New folder\New folder (2)\QLVLXD\quanlyvatlieuxaydung\GUI\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\huynh\OneDrive\Máy tính\New folder\New folder (2)\QLVLXD\quanlyvatlieuxaydung\GUI\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\huynh\OneDrive\Máy tính\New folder\New folder (2)\QLVLXD\quanlyvatlieuxaydung\GUI\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\huynh\OneDrive\Máy tính\New folder\New folder (2)\QLVLXD\quanlyvatlieuxaydung\GUI\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\huynh\OneDrive\Máy tính\New folder\New folder (2)\QLVLXD\quanlyvatlieuxaydung\GUI\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\huynh\OneDrive\Máy tính\New folder\New folder (2)\QLVLXD\quanlyvatlieuxaydung\GUI\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\huynh\OneDrive\Máy tính\New folder\New folder (2)\QLVLXD\quanlyvatlieuxaydung\GUI\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\huynh\OneDrive\Máy tính\New folder\New folder (2)\QLVLXD\quanlyvatlieuxaydung\GUI\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\huynh\OneDrive\Máy tính\New folder\New folder (2)\QLVLXD\quanlyvatlieuxaydung\GUI\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\huynh\OneDrive\Máy tính\New folder\New folder (2)\QLVLXD\quanlyvatlieuxaydung\GUI\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\huynh\OneDrive\Máy tính\New folder\New folder (2)\QLVLXD\quanlyvatlieuxaydung\GUI\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\huynh\OneDrive\Máy tính\New folder\New folder (2)\QLVLXD\quanlyvatlieuxaydung\GUI\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\huynh\OneDrive\Máy tính\New folder\New folder (2)\QLVLXD\quanlyvatlieuxaydung\GUI\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\huynh\OneDrive\Máy tính\New folder\New folder (2)\QLVLXD\quanlyvatlieuxaydung\GUI\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\huynh\OneDrive\Máy tính\New folder\New folder (2)\QLVLXD\quanlyvatlieuxaydung\GUI\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\huynh\OneDrive\Máy tính\New folder\New folder (2)\QLVLXD\quanlyvatlieuxaydung\GUI\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\huynh\OneDrive\Máy tính\New folder\New folder (2)\QLVLXD\quanlyvatlieuxaydung\GUI\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\huynh\OneDrive\Máy tính\New folder\New folder (2)\QLVLXD\quanlyvatlieuxaydung\GUI\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\huynh\OneDrive\Máy tính\New folder\New folder (2)\QLVLXD\quanlyvatlieuxaydung\GUI\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\huynh\OneDrive\Máy tính\New folder\New folder (2)\QLVLXD\quanlyvatlieuxaydung\GUI\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\huynh\OneDrive\Máy tính\New folder\New folder (2)\QLVLXD\quanlyvatlieuxaydung\GUI\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\huynh\OneDrive\Máy tính\New folder\New folder (2)\QLVLXD\quanlyvatlieuxaydung\GUI\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\huynh\OneDrive\Máy tính\New folder\New folder (2)\QLVLXD\quanlyvatlieuxaydung\GUI\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\huynh\OneDrive\Máy tính\New folder\New folder (2)\QLVLXD\quanlyvatlieuxaydung\GUI\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\huynh\OneDrive\Máy tính\New folder\New folder (2)\QLVLXD\quanlyvatlieuxaydung\GUI\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\huynh\OneDrive\Máy tính\New folder\New folder (2)\QLVLXD\quanlyvatlieuxaydung\GUI\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\huynh\OneDrive\Máy tính\New folder\New folder (2)\QLVLXD\quanlyvatlieuxaydung\GUI\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\huynh\OneDrive\Máy tính\New folder\New folder (2)\QLVLXD\quanlyvatlieuxaydung\GUI\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\huynh\OneDrive\Máy tính\New folder\New folder (2)\QLVLXD\quanlyvatlieuxaydung\GUI\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\huynh\OneDrive\Máy tính\New folder\New folder (2)\QLVLXD\quanlyvatlieuxaydung\GUI\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\huynh\OneDrive\Máy tính\New folder\New folder (2)\QLVLXD\quanlyvatlieuxaydung\GUI\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\huynh\OneDrive\Máy tính\New folder\New folder (2)\QLVLXD\quanlyvatlieuxaydung\GUI\obj\Debug\GUI.csproj.AssemblyReference.cache
+C:\Users\huynh\OneDrive\Máy tính\New folder\New folder (2)\QLVLXD\quanlyvatlieuxaydung\GUI\obj\Debug\GUI.frmlogin.resources
+C:\Users\huynh\OneDrive\Máy tính\New folder\New folder (2)\QLVLXD\quanlyvatlieuxaydung\GUI\obj\Debug\GUI.frm_chitiethoadon.resources
+C:\Users\huynh\OneDrive\Máy tính\New folder\New folder (2)\QLVLXD\quanlyvatlieuxaydung\GUI\obj\Debug\GUI.frm_hanghoa.resources
+C:\Users\huynh\OneDrive\Máy tính\New folder\New folder (2)\QLVLXD\quanlyvatlieuxaydung\GUI\obj\Debug\GUI.frm_hoadon.resources
+C:\Users\huynh\OneDrive\Máy tính\New folder\New folder (2)\QLVLXD\quanlyvatlieuxaydung\GUI\obj\Debug\GUI.frm_khachhang.resources
+C:\Users\huynh\OneDrive\Máy tính\New folder\New folder (2)\QLVLXD\quanlyvatlieuxaydung\GUI\obj\Debug\GUI.frm_main.resources
+C:\Users\huynh\OneDrive\Máy tính\New folder\New folder (2)\QLVLXD\quanlyvatlieuxaydung\GUI\obj\Debug\GUI.frm_nhanvien.resources
+C:\Users\huynh\OneDrive\Máy tính\New folder\New folder (2)\QLVLXD\quanlyvatlieuxaydung\GUI\obj\Debug\GUI.Properties.Resources.resources
+C:\Users\huynh\OneDrive\Máy tính\New folder\New folder (2)\QLVLXD\quanlyvatlieuxaydung\GUI\obj\Debug\GUI.reporthoadonban.resources
+C:\Users\huynh\OneDrive\Máy tính\New folder\New folder (2)\QLVLXD\quanlyvatlieuxaydung\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+C:\Users\huynh\OneDrive\Máy tính\New folder\New folder (2)\QLVLXD\quanlyvatlieuxaydung\GUI\obj\Debug\RdlCompile.cache
+C:\Users\huynh\OneDrive\Máy tính\New folder\New folder (2)\QLVLXD\quanlyvatlieuxaydung\GUI\obj\Debug\RdlCompile.compiled
+C:\Users\huynh\OneDrive\Máy tính\New folder\New folder (2)\QLVLXD\quanlyvatlieuxaydung\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+C:\Users\huynh\OneDrive\Máy tính\New folder\New folder (2)\QLVLXD\quanlyvatlieuxaydung\GUI\obj\Debug\GUI.csproj.CopyComplete
+C:\Users\huynh\OneDrive\Máy tính\New folder\New folder (2)\QLVLXD\quanlyvatlieuxaydung\GUI\obj\Debug\GUI.exe
+C:\Users\huynh\OneDrive\Máy tính\New folder\New folder (2)\QLVLXD\quanlyvatlieuxaydung\GUI\obj\Debug\GUI.pdb
+C:\Users\huynh\OneDrive\Máy tính\New folder\New folder (2)\QLVLXD\quanlyvatlieuxaydung\GUI\bin\Debug\Reporthoadonban.rdlc
+C:\Users\huynh\OneDrive\Máy tính\New folder\New folder (2)\QLVLXD\quanlyvatlieuxaydung\GUI\obj\Debug\GUI.reportdoanhthu.resources
+C:\Users\huynh\OneDrive\Máy tính\New folder\New folder (2)\QLVLXD\quanlyvatlieuxaydung\GUI\obj\Debug\GUI.reportkhohang.resources
+C:\Users\huynh\OneDrive\Máy tính\New folder\New folder (2)\QLVLXD\quanlyvatlieuxaydung\GUI\bin\Debug\Reportkhohang.rdlc
+C:\Users\huynh\OneDrive\Máy tính\New folder\New folder (2)\QLVLXD\quanlyvatlieuxaydung\GUI\obj\Debug\GUI.frm_changepass.resources
+C:\Users\huynh\OneDrive\Máy tính\New folder\New folder (2)\QLVLXD\quanlyvatlieuxaydung\GUI\obj\Debug\GUI.frm_loading.resources
+C:\Users\huynh\OneDrive\Máy tính\New folder\New folder (2)\QLVLXD\quanlyvatlieuxaydung\GUI\bin\Debug\System.Data.OleDb.dll
+C:\Users\huynh\OneDrive\Máy tính\New folder\New folder (2)\QLVLXD\quanlyvatlieuxaydung\GUI\bin\Debug\System.Data.OleDb.xml
+C:\Users\huynh\OneDrive\Máy tính\New folder\New folder (2)\QLVLXD\quanlyvatlieuxaydung\GUI\bin\Debug\frm_khachhang.resx
+C:\Users\huynh\OneDrive\Máy tính\New folder\New folder (2)\QLVLXD\quanlyvatlieuxaydung\GUI\bin\Debug\frm_khachhang.cs
+C:\Users\huynh\OneDrive\Máy tính\New folder\New folder (2)\QLVLXD\quanlyvatlieuxaydung\GUI\bin\Debug\frm_khachhang.Designer.cs
+C:\Users\huynh\OneDrive\Máy tính\New folder\New folder (2)\QLVLXD\quanlyvatlieuxaydung\GUI\bin\Debug\Reportdoanhthu.rdlc
+C:\Users\huynh\OneDrive\Máy tính\New folder\New folder (2)\QLVLXD\quanlyvatlieuxaydung\GUI\bin\Debug\reportdoanhthu.resx
+C:\Users\huynh\OneDrive\Máy tính\New folder\New folder (2)\QLVLXD\quanlyvatlieuxaydung\GUI\bin\Debug\reportdoanhthu.cs
+C:\Users\huynh\OneDrive\Máy tính\New folder\New folder (2)\QLVLXD\quanlyvatlieuxaydung\GUI\bin\Debug\reportdoanhthu.Designer.cs

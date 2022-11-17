@@ -1,0 +1,20 @@
+[OPTIONS]
+Compatibility=1.1 or later
+Compiled file=QLVLXDhelp.chm
+Contents file=QLVLXDhelp.hhc
+Index file=QLVLXDhelp.hhk
+Binary Index=Yes
+Full-text search=Yes
+Language=0x0409
+Title=Quan ly vat lieu xay dung
+Error log file=Errlog.txt
+Default Window=main
+
+[WINDOWS]
+main="Quan ly vat lieu xay dung","QLVLXDhelp.hhc","QLVLXDhelp.hhk","dang nhap.mht","",,,,,0x41520,240,0x184E,[262,184,762,584],,,,0,0,0,0
+
+[FILES]
+dang nhap.mht
+gioi thieu.mht
+thay doi mat khau.mht
+

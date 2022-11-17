@@ -1,0 +1,14 @@
+Microsoft HTML Help Compiler 4.74.8702
+
+Compiling c:\Users\huynh\OneDrive\Máy tính\New folder\New folder (2)\QLVLXD\HDSD\QLVLXDhelp.chm
+
+
+Compile time: 0 minutes, 0 seconds
+5	Topics
+0	Local links
+0	Internet links
+0	Graphics
+
+
+Created c:\Users\huynh\OneDrive\Máy tính\New folder\New folder (2)\QLVLXD\HDSD\QLVLXDhelp.chm, 798,418 bytes
+Compression decreased file by 418,901 bytes.
